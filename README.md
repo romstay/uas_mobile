@@ -28,13 +28,12 @@ Berikut Fitur yang ada didalam project ini :
 
 - SplashScren
   - Didalam program ini kita membuat sebuah splash screen ialah sebuah tampilan yang muncul pertama kali disaat aplikasi dibuka, dan setelah itu langsung redirect ke halaman home
-  - ![Screenshot_1705030696](https://github.com/adam-webdev/uas-pemrogramman-android/assets/75572469/714c0e9c-f460-4437-8f1f-ec9cede30f4b)
+ 
 
 
 - Home Screen Layout Grid
   - Di fitur ini kita membuat sebuah home screen versi 2 yang mana home screen sebelumnya terdapat menu yang berbentuk list, dan dihome screen saat ini menu berbentuk sebuah grid menggunakan icon
-  - ![Screenshot_1705030592](https://github.com/adam-webdev/uas-pemrogramman-android/assets/75572469/10b20329-d81f-4325-8987-693eaf53731e)
-
+ 
 
 - Fibonnaci
   - Didalam program ini kita membuat sebuah fungsi menghitung bilangan fibonnaci dan menampilkan sebuah toast, selain itu didalam program ini juga kita membuat sebuah inputan untuk membatasi  bilangan fibonacci yang akan dihitung, jika suda melebihi maka toast akan muncul untuk memberikan peringatan
@@ -53,9 +52,7 @@ Berikut Fitur yang ada didalam project ini :
 
 - Movies
   - Didalam program ini kita membuat sebauh `Tab Fragment` yang mana didalamnya terdapat kumpulan poster movies
-  - ![Screenshot_1705030713](https://github.com/adam-webdev/uas-pemrogramman-android/assets/75572469/6767c07d-8d3a-4ffc-8563-640bb81e19ce)
-  - ![Screenshot_1705030717](https://github.com/adam-webdev/uas-pemrogramman-android/assets/75572469/81bfe574-5a7f-43a2-bac6-ff30e161f509)
-  - ![Screenshot_1705030722](https://github.com/adam-webdev/uas-pemrogramman-android/assets/75572469/25c7de4e-149e-4cbd-8bfa-1de2c942dc99)
+
     
 
 
